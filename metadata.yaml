@@ -1,0 +1,29 @@
+_repo: The-Boyhood-of-Great-Inventors_38191
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38191-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Robertson, A. Fraser
+    gutenberg_agent_id: '39304'
+    url: http://www.gutenberg.org/2009/agents/39304
+description: ''
+gutenberg_issued: '2011-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38191'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Inventors -- Biography -- Juvenile literature'
+- !lcc 'DA'
+- !lcsh 'Inventors -- Great Britain -- Biography'
+tableOfContents: John Smeaton -- John Flaxman -- Sir Humphrey Davy -- Sir Richard
+  Arkwright -- Josiah Wedgwood -- George Stephenson -- Thomas Alva Edison -- James
+  Watt.
+title: The Boyhood of Great Inventors
+url: http://www.gutenberg.org/ebooks/38191
