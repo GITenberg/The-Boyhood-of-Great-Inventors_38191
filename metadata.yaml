@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39304'
     url: http://www.gutenberg.org/2009/agents/39304
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38191#The-Boyhood-of-Great-Inventors
 gutenberg_issued: '2011-12-03'
 gutenberg_type: Text
 identifiers:
@@ -22,6 +24,7 @@ subjects:
 - !lcsh 'Inventors -- Biography -- Juvenile literature'
 - !lcc 'DA'
 - !lcsh 'Inventors -- Great Britain -- Biography'
+- GITenberg
 tableOfContents: John Smeaton -- John Flaxman -- Sir Humphrey Davy -- Sir Richard
   Arkwright -- Josiah Wedgwood -- George Stephenson -- Thomas Alva Edison -- James
   Watt.
